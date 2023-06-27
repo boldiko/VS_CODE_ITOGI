@@ -1,0 +1,15 @@
+C:\Users\Happy\Desktop\VS CODE ITOGI\Zadanie_CODE\bin\Debug\net6.0\Zadanie_CODE.exe
+C:\Users\Happy\Desktop\VS CODE ITOGI\Zadanie_CODE\bin\Debug\net6.0\Zadanie_CODE.deps.json
+C:\Users\Happy\Desktop\VS CODE ITOGI\Zadanie_CODE\bin\Debug\net6.0\Zadanie_CODE.runtimeconfig.json
+C:\Users\Happy\Desktop\VS CODE ITOGI\Zadanie_CODE\bin\Debug\net6.0\Zadanie_CODE.dll
+C:\Users\Happy\Desktop\VS CODE ITOGI\Zadanie_CODE\bin\Debug\net6.0\Zadanie_CODE.pdb
+C:\Users\Happy\Desktop\VS CODE ITOGI\Zadanie_CODE\obj\Debug\net6.0\Zadanie_CODE.csproj.AssemblyReference.cache
+C:\Users\Happy\Desktop\VS CODE ITOGI\Zadanie_CODE\obj\Debug\net6.0\Zadanie_CODE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Happy\Desktop\VS CODE ITOGI\Zadanie_CODE\obj\Debug\net6.0\Zadanie_CODE.AssemblyInfoInputs.cache
+C:\Users\Happy\Desktop\VS CODE ITOGI\Zadanie_CODE\obj\Debug\net6.0\Zadanie_CODE.AssemblyInfo.cs
+C:\Users\Happy\Desktop\VS CODE ITOGI\Zadanie_CODE\obj\Debug\net6.0\Zadanie_CODE.csproj.CoreCompileInputs.cache
+C:\Users\Happy\Desktop\VS CODE ITOGI\Zadanie_CODE\obj\Debug\net6.0\Zadanie_CODE.dll
+C:\Users\Happy\Desktop\VS CODE ITOGI\Zadanie_CODE\obj\Debug\net6.0\refint\Zadanie_CODE.dll
+C:\Users\Happy\Desktop\VS CODE ITOGI\Zadanie_CODE\obj\Debug\net6.0\Zadanie_CODE.pdb
+C:\Users\Happy\Desktop\VS CODE ITOGI\Zadanie_CODE\obj\Debug\net6.0\Zadanie_CODE.genruntimeconfig.cache
+C:\Users\Happy\Desktop\VS CODE ITOGI\Zadanie_CODE\obj\Debug\net6.0\ref\Zadanie_CODE.dll
